@@ -1,7 +1,7 @@
 {
   "name": "pike-casino.de",
   "site_name": "Pike Casino – Spielen, Willkommensbonus Sichern & Gewinnen",
-  "html_head": "<meta name=\"google-site-verification\" content=\"WV14tjxbrsW3Z7EBU4wh7qmLiNElpEvIxosDmSxFamg\" />\n<link rel=\"canonical\" href=\"https://pike-casino.co.uk/en-gb/\">\n<link rel=\"alternate\" href=\"https://pike-casino.co.uk/\" hreflang=\"en\">\n<link rel=\"alternate\" href=\"https://pike-casino.co.uk/en-gb/\" hreflang=\"en-GB\">\n<link rel=\"alternate\" href=\"https://pike-casino.co.uk/\" hreflang=\"x-default\">\n<meta property=\"og:locale\" content=\"en_GB\">\n<meta property=\"og:type\" content=\"website\">\n<meta property=\"og:title\" content=\"Pike Casino – Bonuses, Games & Withdrawals\">\n<meta property=\"og:description\" content=\"Explore Pike Casino for top online slots, live dealer tables, and fast GBP withdrawals! Claim exclusive Pike Casino bonus packages & start winning today.\">\n<meta property=\"og:url\" content=\"pike-casino.co.uk\">\n<meta property=\"og:site_name\" content=\"Pike Casino\">\n<meta property=\"og:image\" content=\"https://pike-casino.co.uk//uploads/1e20a2f3a60ebac4dad95ac05b5017c7.webp\">",
+  "html_head": "<link rel=\"canonical\" href=\"https://pike-casino.co.uk/\">\n<meta property=\"og:locale\" content=\"en_GB\">\n<meta property=\"og:type\" content=\"website\">\n<meta property=\"og:title\" content=\"Pike Casino – Spielen, Willkommensbonus Sichern & Gewinnen\">\n<meta property=\"og:description\" content=\"Entdecken Sie unser Pike Casino! Exklusive Boni, sichere Auszahlungen in Euro und Live-Unterhaltung. Registrieren Sie sich jetzt bei Pike Casino!\">\n<meta property=\"og:url\" content=\"pike-casino.co.uk\">\n<meta property=\"og:site_name\" content=\"Pike Casino\">",
   "url": "pike-casino.de",
   "template": "tupchiy",
   "language_code": "en",
@@ -245,9 +245,8 @@
       "question": "Wie erstelle ich ein Konto im Pike Casino?"
     }
   ],
-  "_generated_at": "2026-10-29T16:01:32.306Z",
+  "_generated_at": "2026-10-29T16:05:46.331Z",
   "_version": "1.0.0",
-  "html_head_alt": "pike baner",
-  "_last_deploy": "2026-10-29T16:01:38.609Z",
-  "_deploy_trigger": "c5twkw"
+  "_last_deploy": "2026-10-29T16:05:46.964Z",
+  "_deploy_trigger": "m22h2o"
 }
