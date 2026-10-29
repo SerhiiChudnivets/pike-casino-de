@@ -1,7 +1,7 @@
 {
   "name": "pike-casino.de",
   "site_name": "Pike Casino – Spielen, Willkommensbonus Sichern & Gewinnen",
-  "html_head": "<link rel=\"canonical\" href=\"https://pike-casino.co.uk/\">\n<meta property=\"og:locale\" content=\"en_GB\">\n<meta property=\"og:type\" content=\"website\">\n<meta property=\"og:title\" content=\"Pike Casino – Spielen, Willkommensbonus Sichern & Gewinnen\">\n<meta property=\"og:description\" content=\"Entdecken Sie unser Pike Casino! Exklusive Boni, sichere Auszahlungen in Euro und Live-Unterhaltung. Registrieren Sie sich jetzt bei Pike Casino!\">\n<meta property=\"og:url\" content=\"pike-casino.co.uk\">\n<meta property=\"og:site_name\" content=\"Pike Casino\">",
+  "html_head": "<link rel=\"canonical\" href=\"https://pike-casino.de/\">\n<meta property=\"og:locale\" content=\"en_GB\">\n<meta property=\"og:type\" content=\"website\">\n<meta property=\"og:title\" content=\"Pike Casino – Spielen, Willkommensbonus Sichern & Gewinnen\">\n<meta property=\"og:description\" content=\"Entdecken Sie unser Pike Casino! Exklusive Boni, sichere Auszahlungen in Euro und Live-Unterhaltung. Registrieren Sie sich jetzt bei Pike Casino!\">\n<meta property=\"og:url\" content=\"pike-casino.de\">\n<meta property=\"og:site_name\" content=\"Pike Casino\">",
   "url": "pike-casino.de",
   "template": "tupchiy",
   "language_code": "en",
@@ -245,8 +245,8 @@
       "question": "Wie erstelle ich ein Konto im Pike Casino?"
     }
   ],
-  "_generated_at": "2026-10-29T16:05:46.331Z",
+  "_generated_at": "2026-10-29T16:06:17.525Z",
   "_version": "1.0.0",
-  "_last_deploy": "2026-10-29T16:05:46.964Z",
-  "_deploy_trigger": "m22h2o"
+  "_last_deploy": "2026-10-29T16:06:18.263Z",
+  "_deploy_trigger": "22igy"
 }
