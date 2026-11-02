@@ -100,31 +100,19 @@
   "header_menu": [
     {
       "link": "/play/",
-      "label": "Login",
+      "label": "Anmelden",
       "submenu": [],
       "openInNewTab": false
     },
     {
       "link": "/play/",
-      "label": " Promotions",
+      "label": " Sonderangebote",
       "submenu": [],
       "openInNewTab": false
     },
     {
       "link": "/play/",
-      "label": "Games",
-      "submenu": [],
-      "openInNewTab": false
-    },
-    {
-      "link": "/play/",
-      "label": "Payments",
-      "submenu": [],
-      "openInNewTab": false
-    },
-    {
-      "link": "/play/",
-      "label": "Mobile",
+      "label": "Spiele",
       "submenu": [],
       "openInNewTab": false
     }
@@ -132,31 +120,19 @@
   "footer_menu": [
     {
       "link": "/play/",
-      "label": "Responsible Gaming",
+      "label": "Datenschutzerklärung",
       "submenu": [],
       "openInNewTab": false
     },
     {
       "link": "/play/",
-      "label": "Privacy Policy",
+      "label": "Datenschutzerklärung zu Cookies",
       "submenu": [],
       "openInNewTab": false
     },
     {
       "link": "/play/",
-      "label": "Cookies Policy",
-      "submenu": [],
-      "openInNewTab": false
-    },
-    {
-      "link": "/play/",
-      "label": "Terms & Conditions",
-      "submenu": [],
-      "openInNewTab": false
-    },
-    {
-      "link": "/play/",
-      "label": "Contacts",
+      "label": "Kontakte",
       "submenu": [],
       "openInNewTab": false
     }
@@ -241,9 +217,9 @@
       "question": "Wie erstelle ich ein Konto im Pike Casino?"
     }
   ],
-  "_generated_at": "2026-11-02T10:20:41.982Z",
+  "_generated_at": "2026-11-02T10:22:57.357Z",
   "_version": "1.0.0",
   "content_alt": "pike register",
-  "_last_deploy": "2026-11-02T10:20:42.670Z",
-  "_deploy_trigger": "9l8fxp"
+  "_last_deploy": "2026-11-02T10:22:58.057Z",
+  "_deploy_trigger": "sjb7n"
 }
