@@ -62,17 +62,17 @@
   "hero_title": "Pike Casino – Spielen und Bonus sichern",
   "hero_subtitle": "Willkommensbonus",
   "hero_badge": "Pike Casino: Online-Slots spielen",
-  "cta_text": "Play Now",
+  "cta_text": "Spielen",
   "tagline": "550% + 400 Free Spins",
   "features_list": null,
   "footer_text": "© 2026. Pike Casino. All rights reserved",
   "popup_text": "Bonus 550% + 400 Free Spins",
   "faq_title": "FAQ",
-  "login_text": "Log In",
-  "register_text": "Register",
+  "login_text": "Anmelden",
+  "register_text": "Registrieren",
   "slots_title": "Die besten Casino-Slots – Pike Casino",
   "bonus_title": "Pike Casino: Holen Sie sich Willkommenspakete und wöchentliche Boni",
-  "get_bonus_btn_text": "Get Bonus",
+  "get_bonus_btn_text": "Jetzt Erhalten",
   "redirect_link": "/play/",
   "home_name": "Pike Casino",
   "subdomains": null,
@@ -241,9 +241,9 @@
       "question": "Wie erstelle ich ein Konto im Pike Casino?"
     }
   ],
-  "_generated_at": "2026-11-02T08:51:17.051Z",
+  "_generated_at": "2026-11-02T10:20:41.982Z",
   "_version": "1.0.0",
   "content_alt": "pike register",
-  "_last_deploy": "2026-11-02T08:51:17.643Z",
-  "_deploy_trigger": "w4ybl"
+  "_last_deploy": "2026-11-02T10:20:42.670Z",
+  "_deploy_trigger": "9l8fxp"
 }
