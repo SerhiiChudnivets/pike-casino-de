@@ -1,7 +1,7 @@
 {
   "name": "pike-casino.de",
   "site_name": "Pike Casino – Spielen, Willkommensbonus Sichern & Gewinnen",
-  "html_head": "<link rel=\"canonical\" href=\"https://pike-casino.de/\">\n<meta property=\"og:locale\" content=\"de_DE\">\n<meta property=\"og:type\" content=\"website\">\n<meta property=\"og:title\" content=\"Pike Casino – Spielen, Willkommensbonus Sichern & Gewinnen\">\n<meta property=\"og:description\" content=\"Entdecken Sie unser Pike Casino! Exklusive Boni, sichere Auszahlungen in Euro und Live-Unterhaltung. Registrieren Sie sich jetzt bei Pike Casino!\">\n<meta property=\"og:url\" content=\"pike-casino.de\">\n<meta property=\"og:site_name\" content=\"Pike Casino\">",
+  "html_head": "<link rel=\"canonical\" href=\"https://pike-casino.de/\">\n<meta property=\"og:locale\" content=\"de_DE\">\n<meta property=\"og:type\" content=\"website\">\n<meta property=\"og:title\" content=\"Pike Casino – Spielen, Willkommensbonus Sichern & Gewinnen\">\n<meta property=\"og:description\" content=\"Entdecken Sie unser Pike Casino! Exklusive Boni, sichere Auszahlungen in Euro und Live-Unterhaltung. Registrieren Sie sich jetzt bei Pike Casino!\">\n<meta property=\"og:url\" content=\"https://pike-casino.de/\">\n<meta property=\"og:site_name\" content= \"Pike Casino\">\n<meta name=\"twitter:card\" content=\"summary_large_image\">\n<meta name=\"twitter:title\" content=\"Pike Casino – Spielen, Willkommensbonus Sichern & Gewinne\">\n<meta name=\"twitter:description\" content=\"Entdecken Sie unser Pike Casino! Exklusive Boni, sichere Auszahlungen in Euro und Live-Unterhaltung. Registrieren Sie sich jetzt bei Pike Casino!\">",
   "url": "pike-casino.de",
   "template": "tupchiy",
   "language_code": "de",
@@ -57,7 +57,7 @@
       }
     ]
   },
-  "seo_description": "Entdecken Sie unser Pike Casino! Exklusive Boni, sichere Auszahlungen in Euro und Live-Unterhaltung. Registrieren Sie sich jetzt bei  Pike Casino!",
+  "seo_description": "Entdecken Sie unser Pike Casino! Exklusive Boni, sichere Auszahlungen in Euro und Live-Unterhaltung. Registrieren Sie sich jetzt bei Pike Casino!",
   "redirect_site": null,
   "hero_title": "Pike Casino – Spielen und Bonus sichern",
   "hero_subtitle": "Willkommensbonus",
@@ -241,9 +241,9 @@
       "question": "Wie erstelle ich ein Konto im Pike Casino?"
     }
   ],
-  "_generated_at": "2026-10-30T10:08:19.311Z",
+  "_generated_at": "2026-11-02T08:51:17.051Z",
   "_version": "1.0.0",
   "content_alt": "pike register",
-  "_last_deploy": "2026-10-30T10:08:20.214Z",
-  "_deploy_trigger": "jlsoo7"
+  "_last_deploy": "2026-11-02T08:51:17.643Z",
+  "_deploy_trigger": "w4ybl"
 }
